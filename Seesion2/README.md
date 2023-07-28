@@ -7,7 +7,7 @@ flutter pub get
 
 ## Table of contents
 
-1. [Plant App - Flutter UI]((https://github.com/toLuc57/LearnFlutter/tree/master/Seesion2/plant_app)). 
+1. [Plant App - Flutter UI](https://github.com/toLuc57/LearnFlutter/tree/master/Seesion2/plant_app). 
  
     Reference: https://www.youtube.com/watch?v=LN668OAUrK4&list=UULPJm7i4g4z7ZGcJA_HKHLCVw&index=1&t=31s
 
