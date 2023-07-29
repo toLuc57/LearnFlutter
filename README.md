@@ -3,7 +3,9 @@ A project for learning Flutter
 
 ## Table of contents
 
-[Section 2](https://github.com/toLuc57/LearnFlutter/tree/master/Seesion2)
+[Session 1B](https://github.com/toLuc57/LearnFlutter/tree/master/Seesion1B)
+
+[Sesstion 2](https://github.com/toLuc57/LearnFlutter/tree/master/Seesion2)
 
 Will continue to update more..
 
