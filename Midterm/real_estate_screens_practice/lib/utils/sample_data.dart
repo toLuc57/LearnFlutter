@@ -54,15 +54,4 @@ const reData = [
     "description":
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
   },
-  {
-    "image": "assets/images/image_6.jpeg",
-    "amount": 1800000,
-    "address": "Việt Nam",
-    "bedrooms": 8,
-    "bathrooms": 4,
-    "area": 2365,
-    "garage": 2,
-    "description":
-    "Quán quân năm nay thuộc về khách sạn có phong cách boutique La Sinfonía del Rey Hotel & Spa (Hà Nội). Nơi này được ví như 'ốc đảo yên tĩnh ngay trung tâm thủ đô sôi động' và 'vị trí thuận tiện'."
-  },
 ];
