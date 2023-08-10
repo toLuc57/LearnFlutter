@@ -1,0 +1,4 @@
+#Wed Aug 09 11:59:48 ICT 2023
+base.0=D\:\\DuLieuSinhVien_DTM\\Nam4_HKIII\\Mobie\\PracticeSession\\Session4\\quiz_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
