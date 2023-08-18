@@ -7,6 +7,10 @@ A project for learning Flutter
 
 [Sesstion 2](https://github.com/toLuc57/LearnFlutter/tree/master/Seesion2)
 
+[Sesstion 3](https://github.com/toLuc57/LearnFlutter/tree/master/Session3)
+
+[Sesstion 4](https://github.com/toLuc57/LearnFlutter/tree/master/Session4)
+
 Will continue to update more..
 
 ## Start doing something
